@@ -1,4 +1,4 @@
-Building products with javascript
+# Building products with javascript
 
 This repository contains code and related materials for Building products with
 JS course.
